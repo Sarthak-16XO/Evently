@@ -5,17 +5,7 @@
     </a>
   <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-Next_JS_14-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
-  </div>
-
   <h3 align="center">A Full Stack Next 14 Events App</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -130,10 +120,6 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-<summary><code>tailwind.config.ts</code></summary>
-
-
 
 ## <a name="links">🔗Project Deployed Link</a>
 
